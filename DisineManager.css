@@ -1,0 +1,18 @@
+#Site
+{
+	background-image: url(Files/NikitaGamesProductionIcon.jpg);
+}
+#Title
+{
+	color: green;
+	position: relative;
+	width: 14%;
+	top: 0px;	
+	left: 43%;
+	font-family: cursive; 
+}
+#MainText
+{
+	color: yellow;
+	font-size: 15pt;
+}
